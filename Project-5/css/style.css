@@ -1,0 +1,258 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* --- NAV--SECTION----------------------------------------------------------------------------------------------------------- */
+.nav_head_elemant img {
+    width: 1.3rem;
+    height: 1rem;
+    padding-right: 0.2rem;
+    /* filter: hue-rotate(180deg); */
+    /* filter: url('#myColorFilter'); */
+    /* filter: grayscale(100%); */
+    filter: grayscale(100%) invert(100%);
+}
+.nav_head p{
+    font-family: "open sans";
+
+}
+.navbar a{
+    font-family: "open sans";
+
+}
+
+.nav_head_elemant {
+    padding: 5px 0;
+    padding-bottom: 8px;
+}
+
+.nav_head_elemant p {
+    margin-bottom: 0;
+}
+
+.nav_head {
+    background-color: #000;
+    color: #fff;
+}
+
+.nav_head_elemant_post {
+    background-color: #00aaff;
+}
+
+.navbar_menu img{
+    height: 3rem;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: #000;
+    display: block;
+    padding: 1rem;
+}
+
+
+.navbar{
+    position: sticky;
+    top: 1px;
+    z-index: 1;
+    background-color: #fff;
+}
+.navebar_menu_elemant a{
+    color: #fff;
+}
+.navebar_menu_elemant li{
+    padding: 1rem;
+    border-bottom: #fff 2px solid;
+    width: 100%;
+}
+.navebar_menu_img{
+box-sizing: border-box;
+padding: 10px;
+}
+
+/* ------------------------------------------------------------------------------------------ */
+
+
+.hero{
+    background-image: url(../img/featured-avatar.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+        
+}
+.hero_body{
+    background-color: #000000aa;
+}
+
+/* --car_carry-----------------------------------------------------------------------------------------------------------------------/ */
+.Client_feed , .car_carry{
+    color: #111;
+}
+.Client_feed p , .car_carry p{
+    color: #555;
+}
+.car_carry img{
+    height: 3rem;
+    width: 3rem;
+    padding-right: 10px;
+    box-sizing: content-box;
+}
+.car_carry_elemant{
+    box-sizing:content-box;
+    padding: 20px ;
+}
+
+.car_carry_elemant div{
+    background-color: #eeefff;
+}
+
+
+/* --Client_feed--------------------------------------------------------------------------------------------------------------------------------/ */
+
+
+.Client_feed_img{
+    width: 2rem;
+    height: 2rem;
+}
+.Client_feed_img2{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+
+.Client_feed_dash{
+    height: 2px;
+}
+.Client_feed_client_img{
+    width: 5rem;
+    height: 5rem;
+}
+
+/* --Rides---------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.Rides{
+    background-color: #eeefff;
+
+}
+
+.Rides_elemant{
+    padding: 1.5rem;
+    background-color: #fff;
+}
+/* --our_number------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.our_number_elemant{
+    width: 6rem;
+    height: 6rem;
+    border: #000 2px solid;
+    padding: 1rem;
+    border-radius: 50%;
+    /* margin-bottom: 2rem; */
+}
+.our_number_elemant img{
+    width: 4rem;
+    height: 4rem;
+}
+
+
+/* ---Latest_rentals-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.Latest_rentals_owner {
+    position: absolute;
+    bottom: 0.5rem;
+}
+.Latest_rentals_price_per_day{
+    position: absolute;
+    top: -5px ;
+    right: -5px;
+}
+
+.Latest_rentals_rating{
+    width: 0.8rem;
+    height: 0.8rem;
+}
+.Latest_rentals_arro{
+    width: 1rem;
+    height: 1rem;
+    transform: translateY(5px);
+    /* filter: grayscale(100%) hue-rotate(120deg); */
+    /* filter: grayscale(20%) invert(40%);
+    filter: grayscale(0%) ;
+    filter: hue-rotate(20deg); */
+
+}
+
+
+/* .Latest_rentals_arro{
+    filter: grayscale(100%) hue-rotate(180deg);
+} */
+/* --ride------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+.ride_info{
+    background-color: #eeefff;
+}
+
+.sponsors_elemant{
+    border: #777777 1px solid;
+}
+.sponsors_elemant img{
+    width: 100%;
+}
+/* --contact----------------------------------------------------------------------------------------------------------------- */
+
+
+.contact_img{
+    width: 4rem;
+    height: 4rem;
+    filter: grayscale(20%) invert(40%);
+    margin-right: 5px;
+}
+
+.contact{
+    border-bottom: #252525 2px solid;
+}
+.contact_section{
+    background-color: #eeefff;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------------------- */
+
+.footer_social_media{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.input_img{
+    width: 20px;
+    height: 20px;
+}
+
+
+.footer_car{
+    width: 200px;
+    position: absolute;
+    /* top: 100px; */
+    right: 20px ;
+    bottom: 0px;
+    /* z-index: -1; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
